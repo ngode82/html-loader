@@ -1,0 +1,33 @@
+
+<html>
+<head>
+
+<title>Welcome to Bob's Bird Houses!</title>
+  <link rel="stylesheet" href="base2.css">
+</head>
+<body>
+
+<table align=center >
+	<tr>
+		<td><ul class="navbar"><li><a href="index.htm">Home</a></ul></td>
+		<td><ul class="navbar"><li><a href="about.htm">About Bob's Bird Houses</a></ul></td>
+  		<td><ul class="navbar"><li><a href="gallery.htm">Bird House Gallery</a></ul></td>
+		<td><ul class="navbar"><li><a href="order.htm">Order</a></ul></td>
+	</tr>
+</table>
+
+<h3 align=center>Welcome to Bob's Birdhouses!</h3>
+
+<table align=center >
+	<tr>
+		<td align=center bgcolor=white><image src='BirdHouse01.jpg' width=200 length=300><td>
+		<td align=center bgcolor=white><image src='BirdHouse02.jpg' width=200 length=300><td>
+	</tr>
+	<tr>
+		<td align=center bgcolor=white><image src='BirdHouse03.jpg' width=200 length=300><td>
+		<td align=center bgcolor=white><image src='BirdHouse04.jpg' width=200 length=300><td>
+	</tr>
+</table>
+
+</body>
+</html>
